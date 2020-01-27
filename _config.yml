@@ -12,18 +12,18 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes@4.16.3"
-minimal_mistakes_skin    : "cepobia" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise","default"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise","default"
 
 # Site Settings
 locale                   : "es-CO"
-title                    : "CepoBIA"
+title                    : "OMDRA"
 title_separator          : "-"
-name                     : "CepoBIA"
-description              : "Empresa Ubicada en Cali, Colombia, Ofrecemos servicios de consultoria y entrenamiento en Business Intelligence y Analitica, Principalmente con tegonologias Microsoft como Power BI, Excel y SQLServer "
-url                      : "https://cepobia.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "OMDRA"
+description              : ""
+url                      : "https://omdra.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/blog" the subpath of your site, e.g.
-repository               : "cepobia/cepobia.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/logos/cepobia.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "manito969/manito969.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : /assets/images/logos/Omdra.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #/assets/images/simbolo80x80.png
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -72,7 +72,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "googleecae59c63f2c6ed4.html"
+google_site_verification : ""
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Esteban Londono"
-  avatar           : "/assets/images/esteban.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Business Intelligence Expert"
+  name             : "Eliana Ramirez Drada"
+  avatar           : "/assets/images/eliana.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Yogui"
   location         : "Cali, Colombia"
-  email            : "esteban.londono.padilla@gmail.com"
+  email            : ""
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -131,7 +131,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "(+57)318 388 31 45"
+    - label: "(+57)"
       icon: "fab fa-fw fa-whatsapp"
     #  url: "https://api.whatsapp.com/send?phone=573183883145&text=Hola,%20quiero%20conocer%20mas%20sobre%20sus%20servicios"
     - label: "admon@cepobia.com"
