@@ -20,7 +20,7 @@ title                    : "OMDRA"
 title_separator          : "-"
 name                     : "OMDRA"
 description              : ""
-url                      : "https://omdra.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://manito969.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/blog" the subpath of your site, e.g.
 repository               : "manito969/manito969.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/logos/Omdra.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
