@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: Biapp
-    url: /BIaaS/   
-  - title: "Consultoría"
-    url: /consultoria/
   - title: "Entrenamiento"
     url: /entrenamiento/
   - title: "Demos"

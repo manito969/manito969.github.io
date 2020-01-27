@@ -1,15 +1,12 @@
 ---
-title: "Hacemos que los datos hablen"
+title: "OMDRA"
 layout: splash
 author_profile: false
 header:
   overlay_color: "#777779"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/wide/wbinary.png
-  actions:
-    - label: "Hablemos"
-      url: "/contacto/"
-excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica'
+  overlay_image: /assets/images/wide/home-header.jpg
+excerpt: 'Inahala Exhala'
 
 feature_row1:
   - image_path: /assets/images/logos/Biapp.png
