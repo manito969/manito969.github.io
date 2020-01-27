@@ -5,7 +5,7 @@ author_profile: false
 header:
   overlay_color: "#777779"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/wide/home-header.jpg
+  overlay_image: /assets/images/wide/wmachu_sun.jpg
 excerpt: 'Inahala Exhala'
 
 feature_row1:
